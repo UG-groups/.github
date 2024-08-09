@@ -7,7 +7,7 @@
 
 ## ¡Hola! 👋
 
-Somos UG Groups [UGGroups](https://uggroups.com). Estamos reinventando la forma de unir y crear comunidades.
+Somos UG Groups. Estamos reinventando la forma de unir y crear comunidades.
 
 Si te interesa contribuir o conocer más puedes, [leer sobre nosotros](https://uggroups.com/about).
 
